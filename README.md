@@ -6,6 +6,10 @@
 
 ## Data Pipeline
 
+Demonstrates how Data is moved from Sources to Storage with Services such as Azure Data Factory for Landing and ADLS Gen 2 for Staging and Curating, then Azure Synapse for Analytics. 
+
+---
+
 ![layers_date_warehouse_architecture](https://github.com/peter28data/data-warehouse/blob/c2e4e0392254725f02874dc570d668c144d6927b/images_data_warehouse/layers_data_warehouse_architecture.webp)
 
 ---
